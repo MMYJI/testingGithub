@@ -11,6 +11,5 @@ class Request extends Model
         'request_number',
         'request_details',
     ];
-
     //protected $guarded = [];
 }
